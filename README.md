@@ -1,1 +1,4 @@
-# controle_config_04-11
+# Projeto Controle de Configuração
+- Guilherme Olinto Duarte
+- Daniel Alves
+- Vinicius
