@@ -2,3 +2,5 @@
 - Guilherme Olinto Duarte
 - Daniel Alves
 - Vinicius
+- Yago
+- Henrique
